@@ -8,7 +8,6 @@ Brief description of what the project does.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
